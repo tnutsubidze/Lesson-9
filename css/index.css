@@ -19,7 +19,6 @@
     align-items: flex-end;
 }
 .section1{
-    max-width: 1408px;
     width: 100%;
     height: 562px;
     display: flex;
@@ -69,7 +68,6 @@
     font-family: 'Poppins', sans-serif;
 }
 .section2{
-    max-width: 1408px;
     width: 100%;
     display: flex;
     justify-content: center;
